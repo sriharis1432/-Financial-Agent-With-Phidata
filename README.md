@@ -1,5 +1,10 @@
 # -Financial-Agent-With-Phidata
 
+# !pip install streamlit
+# !pip install groq
+# !pip install duckduckgo-search
+# !pip install phidata
+
 Phidata_key =" "
 
 Groq_key=" "
